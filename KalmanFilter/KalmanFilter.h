@@ -1,10 +1,10 @@
 /*
- * @file KarmanFilter.h
+ * @file KalmanFilter.h
  * @brief 
  */
 
-#ifndef WORKSPACE_KARMANFILTER_H
-#define WORKSPACE_KARMANFILTER_H
+#ifndef WORKSPACE_KALMANFILTER_H
+#define WORKSPACE_KALMANFILTER_H
 
 #include <fstream>
 #include <iostream>
@@ -46,4 +46,4 @@ private:
 };
 
 
-#endif //WORKSPACE_KARMANFILTER_H
+#endif //WORKSPACE_KALMANFILTER_H

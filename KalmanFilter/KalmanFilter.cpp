@@ -1,9 +1,9 @@
 /*
- * @file KarmanFilter.cpp
+ * @file KalmanFilter.cpp
  * @brief 
  */
 
-#include "KarmanFilter.h"
+#include "KalmanFilter.h"
 
 KalmanFilter::KalmanFilter():kf_lcm("udpm://239.255.76.67:7667?ttl=1&recv_buf_size=8388608") {
 //参数初始化设置
