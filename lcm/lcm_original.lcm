@@ -1,0 +1,8 @@
+package imu;
+
+struct lcm_original
+{
+    float accx_o;
+    float accy_o;
+    float accz_o;
+}
